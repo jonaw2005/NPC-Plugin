@@ -1,0 +1,9 @@
+name: NPC_Plugin
+author: jonaw2005
+version: 1.0
+api-version: 1.16
+main: me.jonaw2005.NPC_Plugin
+commands:
+  spawn:
+  remove:
+  
