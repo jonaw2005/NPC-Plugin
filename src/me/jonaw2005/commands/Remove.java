@@ -14,6 +14,6 @@ public class Remove implements CommandExecutor{
 		
 		NPC.removeAllNpcs();
 		
-		return false;
+		return true;
 	}
 }
